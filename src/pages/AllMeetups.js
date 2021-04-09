@@ -36,7 +36,9 @@ function AllMeetupsPage() {
   }
   return (
     <div>
-      <h1>All Meetups Page</h1>
+      <h1>
+        World's Best Places to <strong>Visit</strong>!
+      </h1>
       <MeetupList meetups={loadedMeetups} />
     </div>
   );
