@@ -6,6 +6,7 @@
   justify-content: space-between;
   background-color: #073590;
   padding: 0 10%;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 4px 0px;
 }
 
 .logo {
